@@ -1,4 +1,4 @@
-## D3
+## DeFi & DAI DAO
 #### Una Organizacion Autonoma y Descentralizada por y para la Comunidad DeFi & DAI LATAM
 
 Las DAO son una nueva herramienta para que comunidades usen su inteligencia colectiva en el manejo de recursos comunes a ella. En [nuestra Aragon DAO]() gestionamos finanzas comunitarias con nuestro propio Token para incentivar el trabajo que cree valor en el colectivo e invertir conjuntamente en distintos protocolos DeFi.
